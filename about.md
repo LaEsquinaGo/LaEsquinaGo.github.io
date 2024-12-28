@@ -30,4 +30,5 @@ está por venir, que en mi opinión, va a ser fantástico.
 El Go siempre ha estado ahí, adormecido quizás. Pero ahora se está despertando. Tú, que juegas al Go, acompáñanos y forma parte de esta historia.
 
 Álvaro Gutiérrez Ferrand
+
 Editor de la revista
