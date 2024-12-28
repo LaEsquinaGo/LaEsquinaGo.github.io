@@ -3,6 +3,9 @@ layout: page
 title: Sobre la revista
 permalink: /about/
 ---
+
+![Alvaro]({% link /images/alvaro.png %})
+
 Querido lector.
 
 Permítame presentarme, llevo jugando más de diez años y he participado en más de un centenar de torneos.
