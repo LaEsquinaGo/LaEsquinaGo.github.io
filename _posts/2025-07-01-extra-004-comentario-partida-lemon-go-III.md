@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Comentario corregido de la partida de Lemon Go III"
 date:   2025-07-01 00:00:00 +0000
