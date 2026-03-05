@@ -34,4 +34,4 @@ El Go siempre ha estado ahí, adormecido quizás. Pero ahora se está despertand
 
 Álvaro Gutiérrez Ferrand
 
-Editor de la revista
+Editor de la revista 
